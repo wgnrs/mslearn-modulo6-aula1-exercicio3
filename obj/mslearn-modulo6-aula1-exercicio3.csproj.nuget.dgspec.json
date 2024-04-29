@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj": {}
+    "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj": {}
   },
   "projects": {
-    "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj": {
+    "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj",
+        "projectUniqueName": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj",
         "projectName": "mslearn-modulo6-aula1-exercicio3",
-        "projectPath": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj",
+        "projectPath": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\mslearn-modulo6-aula1-exercicio3.csproj",
         "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-        "outputPath": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\obj\\",
+        "outputPath": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula1-exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
